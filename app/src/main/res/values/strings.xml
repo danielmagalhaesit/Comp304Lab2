@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AntonioMagalhaes_COMP304Asgn2_Ex1</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="enter">enter</string>
+    <string name="chinese">Chinese</string>
+    <string name="american">American</string>
+    <string name="brazilian">Brazilian</string>
+    <string name="mexican">Mexican</string>
+</resources>

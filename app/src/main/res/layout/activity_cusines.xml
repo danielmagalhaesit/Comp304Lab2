@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a300883536.antoniomagalhaes_comp304asgn2_ex1.CusinesActivity">
+
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp">
+
+            <RadioButton
+                android:id="@+id/rdb_american"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/american"
+                android:padding="8dp"/>
+            <RadioButton
+                android:id="@+id/rdb_chinese"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:text="@string/chinese"/>
+            <RadioButton
+                android:id="@+id/rdb_brazilian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:text="@string/brazilian"/>
+            <RadioButton
+                android:id="@+id/rdb_mexican"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:text="@string/mexican"/>
+
+        </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_enter_cusine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/enter"/>
+
+
+</LinearLayout>
