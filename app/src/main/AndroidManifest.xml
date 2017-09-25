@@ -17,8 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".CusinesActivity" />
-        <activity android:name=".RestaurantsActivity" />
-        <activity android:name=".MenuActivity" />
+        <activity android:name=".FoodMenuActivity" />
         <activity android:name=".CustomerInfoActivity" />
         <activity android:name=".CheckOutActivity"></activity>
     </application>

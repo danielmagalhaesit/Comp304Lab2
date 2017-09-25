@@ -18,7 +18,7 @@
         style="@style/AppTheme"/>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button_main"
         style="@style/AlertDialog.AppCompat"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

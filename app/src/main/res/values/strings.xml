@@ -2,8 +2,67 @@
     <string name="app_name">AntonioMagalhaes_COMP304Asgn2_Ex1</string>
     <string name="company_logo">Company Logo</string>
     <string name="enter">enter</string>
-    <string name="chinese">Chinese</string>
-    <string name="american">American</string>
     <string name="brazilian">Brazilian</string>
     <string name="mexican">Mexican</string>
+
+    <!--American-->
+    <string name="american">American</string>
+
+    <string name="mc_donalds">Mc Donalds</string>
+    <string name="big_mac">Big Mac</string>
+    <string name="big_mac_ingredients"> hamburger, lettuce, cheese, special sauce, pickle</string>
+    <string name="mc_chicken">Mc Chicken</string>
+    <string name="mc_chicken_ingredients">chicken, lettuce, cheese, maio</string>
+    <string name="mc_fish">Mc Fish</string>
+    <string name="mc_fish_ingredients">fish, special sauce</string>
+    <string name="cheeseburger">Cheeseburger</string>
+    <string name="cheeseburger_ingredients">hamburguer, cheese, pickle, ketchup</string>
+
+    <string name="outback">Outback</string>
+    <string name="chicken_wings">Chicken Wings</string>
+    <string name="chicken_wings_ingredients">chicken wings, sauce</string>
+    <string name="ribs">Ribs</string>
+    <string name="ribs_ingredients">Pork ribs</string>
+    <string name="onion">Fried Onion</string>
+    <string name="onion_ingredients">Fried Onion, sauce</string>
+
+    <string name="subway">Subway</string>
+    <string name="roustbeef">Roust Beef</string>
+    <string name="roustbeef_ingredients">roust beef and cheese</string>
+    <string name="meetballs">Meetballs</string>
+    <string name="meetballs_ingredients">Meetballs and cheese</string>
+    <string name="teriaky_chicken">Teriaky Chicken</string>
+    <string name="teriaky_chicken_ingredients">Teriaky Chicken and cheese</string>
+
+    <string name="pizza_hut">Pizza Hut</string>
+    <string name="peperoni">Peperoni</string>
+    <string name="peperoni_ingredients">Peperoni, cheese, tomato sauce</string>
+    <string name="canadian">Canadian</string>
+    <string name="canadian_ingredients">Peperoni, sausage, mushroom, cheese, tomato sauce</string>
+    <string name="chicken_pesto">Chicken Pesto</string>
+    <string name="chicken_pesto_ingredients">Chicken pesto, cheese, tomato sauce</string>
+
+    <!--Chinese-->
+    <string name="chinese">Chinese</string>
+
+    <string name="pf_changs">PF Chang</string>
+    <string name="teriaky">Teriaky</string>
+    <string name="ho_jan">Ho Jan</string>
+    <string name="moto">Moto</string>
+
+
+    <string name="pork_chop">Pork Chop</string>
+    <string name="pork_chop_ingredients">pork chop, onion, sauce</string>
+
+
+    <string name="mata">Mata</string>
+    <string name="toro">Toro</string>
+    <string name="rodeo">Rodeo</string>
+    <string name="copacabana">Copacabana</string>
+
+    <string name="taco_bell">Taco Bell</string>
+    <string name="el_passo">El Passo</string>
+    <string name="guacamole">Guacamole</string>
+    <string name="pico_de_galo">Pico de Galo</string>
+
 </resources>

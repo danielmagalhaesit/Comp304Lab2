@@ -4,12 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.a300883536.antoniomagalhaes_comp304asgn2_ex1.RestaurantsActivity">
+    tools:context="com.example.a300883536.antoniomagalhaes_comp304asgn2_ex1.FoodMenuActivity">
 
-    <ListView
-        android:id="@+id/lv_restaurants"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
 
 
 </FrameLayout>
