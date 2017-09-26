@@ -53,16 +53,37 @@
 
     <string name="pork_chop">Pork Chop</string>
     <string name="pork_chop_ingredients">pork chop, onion, sauce</string>
+    <string name="chicken_chop">Chicken Chop</string>
+    <string name="chicken_chop_ingredients">chicken chop, onion, sauce</string>
+    <string name="beef_chop">Beef Chop</string>
+    <string name="beef_chop_ingredients">beef chop, onion, sauce</string>
 
+    <!--Brazilian-->
 
     <string name="mata">Mata</string>
     <string name="toro">Toro</string>
     <string name="rodeo">Rodeo</string>
     <string name="copacabana">Copacabana</string>
 
+    <string name="picanha">Picanha</string>
+    <string name="picanha_ingredients">picanha barbecue</string>
+    <string name="feijoada">Feijoada</string>
+    <string name="feijoada_ingredients">beans and pork parts</string>
+    <string name="Muqueca">Muqueca</string>
+    <string name="muqueca_ingredients">Fish, pepper souce and coconut milk</string>
+
+    <!--Mexican-->
+
     <string name="taco_bell">Taco Bell</string>
     <string name="el_passo">El Passo</string>
-    <string name="guacamole">Guacamole</string>
+    <string name="guadalarrara">Guadalarrara</string>
     <string name="pico_de_galo">Pico de Galo</string>
+
+    <string name="beef_tacos">Beef Tacos</string>
+    <string name="beef_tacos_ingredients">beef tacos, onion, tomato, guacamole</string>
+    <string name="chicken_tacos">Chicken Tacos</string>
+    <string name="chicken_tacos_ingredients">chicken tacos, onion, tomato, guacamole</string>
+    <string name="pork_tacos">Pork Tacos</string>
+    <string name="pork_tacos_ingredients">pork tacos, onion, tomato, guacamole</string>
 
 </resources>
