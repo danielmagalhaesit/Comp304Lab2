@@ -9,12 +9,12 @@
     tools:context="com.example.a300883536.antoniomagalhaes_comp304asgn2_ex1.MainActivity"
     android:padding="50dp">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/company_logo"
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="240dp"
         android:layout_gravity="center"
         android:gravity="center_horizontal"
+        android:src="@drawable/main_logo"
         style="@style/AppTheme"/>
 
     <Button

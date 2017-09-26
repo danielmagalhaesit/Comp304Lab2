@@ -5,12 +5,15 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:elevation="8dp">
+
     <CheckBox
+        android:id="@+id/food_item"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/beef_chop"
         android:textSize="24sp"/>
     <TextView
+        android:id="@+id/food_ingredients"
         android:paddingLeft="8dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

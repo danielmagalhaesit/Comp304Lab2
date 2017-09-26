@@ -1,57 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.example.a300883536.antoniomagalhaes_comp304asgn2_ex1.FoodMenuActivity">
 
-<include
-    android:id="@+id/first_item"
-    layout="@layout/menu_item"
-    />
-
-    <LinearLayout
+    <TextView
         android:layout_width="match_parent"
-        android:orientation="horizontal"
-        android:layout_height="wrap_content">
-        <CheckBox
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:checked="false"
-            android:text="dfaskjdfslkajdsfalhsadfkjdfshadsfh"
-            android:layout_margin="12dp"/>
+        android:layout_height="wrap_content"
+        android:text="Choose your food"
+        android:textSize="28dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="12dp"/>
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+    <include
+        android:id="@+id/first_item"
+        layout="@layout/menu_item" />
 
-    </LinearLayout>
+    <include
+        android:id="@+id/second_item"
+        layout="@layout/menu_item" />
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:orientation="horizontal"
-        android:layout_height="wrap_content">
-        <CheckBox
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:checked="false"
-            android:text="dfaskjdfslkajdsfalhsadfkjdfshadsfh"
-            android:layout_margin="12dp"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
-
-    </LinearLayout>
+    <include
+        android:id="@+id/third_item"
+        layout="@layout/menu_item" />
 
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="12dp"
-        android:text="Submit"
         android:layout_gravity="center"
-        />
+        android:layout_margin="12dp"
+        android:text="Submit" />
 
 </LinearLayout>

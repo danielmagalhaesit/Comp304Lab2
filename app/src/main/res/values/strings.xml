@@ -50,7 +50,6 @@
     <string name="ho_jan">Ho Jan</string>
     <string name="moto">Moto</string>
 
-
     <string name="pork_chop">Pork Chop</string>
     <string name="pork_chop_ingredients">pork chop, onion, sauce</string>
     <string name="chicken_chop">Chicken Chop</string>
@@ -69,7 +68,7 @@
     <string name="picanha_ingredients">picanha barbecue</string>
     <string name="feijoada">Feijoada</string>
     <string name="feijoada_ingredients">beans and pork parts</string>
-    <string name="Muqueca">Muqueca</string>
+    <string name="muqueca">Muqueca</string>
     <string name="muqueca_ingredients">Fish, pepper souce and coconut milk</string>
 
     <!--Mexican-->
